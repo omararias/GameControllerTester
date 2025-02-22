@@ -1,0 +1,29 @@
+# Archivos específicos de macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Archivos de metadatos de Spotlight
+Spotlight-V100
+.Trashes
+
+# Archivos de caché de thumbnails
+._*
+
+# Configuración de discos externos
+.VolumeIcon.icns
+
+# Archivos de logs y temporales
+*.log
+*.tmp
+
+# Archivos de compilación y derivados de Xcode
+build/
+DerivedData/
+*.xcworkspace
+xcuserdata/
+*.xcuserstate
+
+# Archivos de esquema y configuración personal
+*.xccheckout
+*.xcscmblueprint
