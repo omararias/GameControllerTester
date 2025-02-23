@@ -1,1 +1,30 @@
+Requisitos aplicables hasta la primera versión de la aplicación, siendo esta, el minimum viable product para realizar el lanzamiento de la app:
 
+RF01: El sistema desplegará una ventana donde se pueda ver una silueta genérica de control con los botones mapeados y reaccionen a las pulsaciones en vivo del control.
+
+RF02: El sistema permitirá detección y utilización de controles Xbox One, Xbox Series, PS4, PS5.
+
+RF03: El sistema permitirá vibrar el control para confirmar que los vibradores funcionan.
+
+RF04: El sistema permitirá visualizar en tiempo real el grado de pulsacion que estamos realizando en nuestros gatillos
+
+RF05: El sistema permitirá visualizar en tiempo real el grado de movimiento que estamos realizando en nuestros joystick, al igual que las pulsaciones en estos.
+-------
+-------
+
+
+Requisitos aplicables para la segunda versión de la aplicación, agregando algunos elementos visuales más detallados.
+
+RF06: El sistema permitirá visualizar una recreación de la pulsación del gatillo, por lo que se verá una representación gráfica que detalle en que
+profundidad estamos accionando los gatillos
+
+RF07: El sistema permitirá visualizar una representación de los joysticks según sus lecturas en tiempo real, es decir aparecerá un capuchon o una palanca
+que simule en que grado estamos utilizando un potenciometro
+
+------
+------
+Requisitos aplicables para la tercera versión de la aplicación, agregando una característica nueva, la cual será un campo de tiro.
+
+RF08: El sistema permitirá ingresar a un mundo con físicas tridimensionales donde podrás desplazarte e interactuar.
+
+RF09: El sistema permitirá las acciones de: Saltar, agacharse, cambiar de arma, recargar, y activar o desactivar el recoil.
